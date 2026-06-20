@@ -67,11 +67,21 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <!-- Add your links below -->
-  <!-- <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a> -->
-  <!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a> -->
-  <!-- <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox" /></a> -->
-  <i>Links coming soon...</i>
+  <a href="https://www.linkedin.com/in/oasif-sadik-jisan-a21722161/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/oasifsadikjisan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:oasifsadik99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801741255631" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="tel:+8801770071902">
+    <img src="https://img.shields.io/badge/Phone-+8801770071902-0078D4?style=flat&logo=phone&logoColor=white" />
+  </a>
 </p>
 
 ---
